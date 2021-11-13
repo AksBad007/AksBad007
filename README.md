@@ -1,7 +1,7 @@
 <h1 align = "center"> Hi there, I'm Akshat 🦇 </h1>
 <div align = "center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square)](https://aksbad007.github.io/prtfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-orange?style=flat-square)](https://aksbad007.github.io/portfolio)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat-square)](https://www.linkedin.com/in/akshat-arora-007/)
 [![HackerRank](https://img.shields.io/badge/HackerRank-green?style=flat-square)](https://www.hackerrank.com/arora_akshat007)
 [![Instagram](https://img.shields.io/badge/Instagram-pink?style=flat-square)](https://instagram.com/akshat_bad_007)
