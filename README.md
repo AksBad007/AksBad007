@@ -32,6 +32,7 @@
 <h2 align="center">My Latest Blogs 📚</h2>
 
 <!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+ - 🌮 [Hacktoberfest 2023 experience](https://aksbad007.hashnode.dev/hacktoberfest-2023-experience)
+ - 🚀 [Hello World!](https://aksbad007.hashnode.dev/first-blog)<!-- BLOG-POST-LIST:END -->
 
 Hit me up 📞 if you think I can contribute to your project.
