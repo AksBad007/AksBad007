@@ -16,7 +16,7 @@ jobs:
       - name: "📚  Hashnode Updater"
         uses: "varunsridharan/action-hashnode-blog@1.1.1"
         with:
-          USERNAME: "aksbad007"
+          USERNAME: "AksBad007"
           COUNT: 3
           STYLE: "blog-left"
           BLOG_URL: "https://aksbad007.hashnode.dev/"
