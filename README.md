@@ -26,8 +26,9 @@ I'm a Software Engineer with a passion for Web Development and Data Science, loo
 <h2 align="center">My Latest Blogs 📚</h2>
 
 <!-- BLOG-POST-LIST:START -->
- - 🌮 [Hacktoberfest 2023 experience](https://aksbad007.hashnode.dev/hacktoberfest-2023-experience)
- - 🚀 [Hello World!](https://aksbad007.hashnode.dev/first-blog)<!-- BLOG-POST-LIST:END -->
+ - 🌮 [New Version: Steps to Include Hashnode Blogs in Your Portfolio](https://aksbad007.hashnode.dev/how-to-include-hashnode-blogs-in-your-portfolio)
+ - 🚀 [Hacktoberfest 2023 experience](https://aksbad007.hashnode.dev/hacktoberfest-2023-experience)
+ - 🌮 [Hello World!](https://aksbad007.hashnode.dev/first-blog)<!-- BLOG-POST-LIST:END -->
 
 <div align="center">
 
